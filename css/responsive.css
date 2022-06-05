@@ -1,0 +1,190 @@
+@media only screen and (max-width: 1199.98px) {
+
+}
+
+@media only screen and (max-width: 991.98px) {
+
+    div#navbarSupportedContent {
+        background: #ffffff;
+        position: absolute;
+        width: 100%;
+        top: 92px;
+        left: 0px;
+        padding: 10px 0px;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url(../img/icon/menu.svg);
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler-icon {
+
+      	border-radius: 2px;
+  	}
+    .nav-menu {
+      	align-items: left;
+      	display: inline;
+    }
+    .nav-menu-right li a {
+		margin-left: 0px;
+    }
+    .navbar-toggler-icon {
+
+      	border-radius: 2px;
+  	}
+    .nav-menu {
+      	align-items: left;
+      	display: inline;
+    }
+    .nav-menu-right li a {
+		margin-left: 12px;
+    }
+
+  
+
+    
+
+}
+
+
+@media only screen and (max-width: 767.98px) {
+
+
+}
+
+@media only screen and (max-width: 575.98px) {
+    header {
+        height: 450px;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .banner-img img {
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 104px;
+    }
+    .how-it-work-heading h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    section.how-it-work {
+        margin-top: 110px;
+    }
+    .how-it-work-list h3 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    section.relationship {
+        padding: 80px 0px 0px 0px;
+    }
+    .relationship-container {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    .relationship-colum {
+        padding-right: 0px; 
+    }
+    .relationship-content {
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .relationship-content h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .price {
+        margin-top: 120px;
+    }
+
+    .price-heading h2 {
+    
+        font-size: 28px;
+        line-height: 38px;
+
+    }
+    .price-list-plan {
+        background-color: #C9ECC2;
+    }
+
+    .story-content {
+        padding-left: 0px;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .story-content h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    section.story {
+        margin-top: 74px;
+    }
+    .story-img img {
+        width: 100%;
+        margin-top: 30px;
+    }
+    section.client-section {
+        margin-top: 50px;
+    }
+    .client-heading h2 {
+        font-size: 28px;
+        line-height: 38px;
+
+    }
+    .client-slider-img-left img {
+        width: 100%;
+    }
+
+    .client-slider-img-right.text-end img {
+        width: 100%;
+    }
+
+    .newsletter h4 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .newsletter {
+        margin-top: -159px;
+        padding: 60px 0px;
+        text-align: center;
+    }
+    .newsletter a.signup {
+        padding: 10px 24px;
+    }
+    .newsletter a.view-profile {
+        padding: 10px 24px;
+    }
+    .newsletter .shape1 {
+
+        display: none;
+    }
+    .newsletter .shape2 {
+        display: none;
+    }
+    .footer-part1 {
+        text-align: center;
+    }
+
+    .footer-part h3 {
+    
+        margin-top: 40px;
+    }
+    .footer-part {
+        text-align: center;
+    }
+    .footer-part4.footer-part {
+        margin-top: 30px;
+    }
+    .footer-subscribe {
+        width: 256px;
+        margin: 0px auto;
+    }
+}
